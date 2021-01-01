@@ -1,0 +1,13 @@
+.username.svelte-qr5pxa.svelte-qr5pxa,.username.svelte-qr5pxa.svelte-qr5pxa:hover{color:#0092ca}.stats.svelte-qr5pxa.svelte-qr5pxa{display:grid;grid-gap:0.5rem;grid-template-columns:repeat(3, minmax(100px, 150px));justify-content:center}.stats.svelte-qr5pxa .stats__item.svelte-qr5pxa{flex-direction:column;padding:1rem;border-radius:0.25rem;background:#3080cf}.avatar.svelte-qr5pxa.svelte-qr5pxa{border:0.3rem solid #cfcfcf;border-radius:100%;width:8rem;height:8rem;padding:0.5rem}.hero.svelte-qr5pxa.svelte-qr5pxa{background:#3080cf}
+.icon.svelte-t5n375{font-size:70px;color:#0092ca}a.svelte-t5n375,a.svelte-t5n375:hover{color:#0092ca}
+.footer.svelte-1wrks5x{background-color:transparent}
+.no-color-on-tap.svelte-1vu1p7.svelte-1vu1p7{-webkit-tap-highlight-color:transparent}.navbar-menu.svelte-1vu1p7 .navbar-item.svelte-1vu1p7:hover,.navbar-menu.svelte-1vu1p7 .navbar-item.svelte-1vu1p7:active{background-color:transparent}.navbar-burger.svelte-1vu1p7.svelte-1vu1p7:hover{background-color:transparent}
+.card.svelte-1yrxxou{position:relative;padding-bottom:45px}.repo-stats.svelte-1yrxxou{position:absolute;bottom:0px;height:45px}
+.skeleton.svelte-jmmwh{background-color:var(--baseColor);background-image:linear-gradient(
+      90deg,
+      var(--baseColor),
+      var(--highlightColor),
+      var(--baseColor)
+    );background-size:200px 100%;background-repeat:no-repeat;display:inline-block;width:100%;animation:svelte-jmmwh-loading-animation var(--animationLength) ease-in-out infinite}@keyframes svelte-jmmwh-loading-animation{0%{background-position:-200px 0}100%{background-position:calc(200px + 100%) 0}}
+
+/*# sourceMappingURL=bundle.css.map */
